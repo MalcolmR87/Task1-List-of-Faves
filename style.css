@@ -10,6 +10,6 @@ a {
     color: white;
 }
 
-ol{list-style-image: url(./controller-icon.ico); list-style-position: inside;}
+ol{/*list-style-image: url(./controller-icon.ico);*/ list-style-position: inside;}
 
 ul{color: red;}
